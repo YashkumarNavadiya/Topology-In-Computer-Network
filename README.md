@@ -66,6 +66,7 @@ If the hosts are connected point-to-point logically, then may have multiple inte
       - Not all hosts have point-to-point connection to every other host.
       - Hosts connect to each other in some arbitrarily fashion.
       - This topology exists where we need to provide reliability to some hosts out of all.
+
 **Tree Topology**
 - Also known as Hierarchical Topology, this is the most common form of network topology in use presently.
 - This topology imitates as extended Star topology and inherits properties of bus topology.
